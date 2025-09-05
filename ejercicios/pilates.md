@@ -11,3 +11,9 @@ El pilates es un sistema de entrenamiento físico y mental que se centra en fort
 - Reduce el riesgo de lesiones.
 - Ayuda a controlar la respiración y relajar el cuerpo.
 
+## Instrucciones
+1. Busca un espacio cómodo con colchoneta.
+2. Realiza un calentamiento ligero antes de comenzar.
+3. Ejecuta ejercicios básicos como "el cien", "el puente" y "la sierra".
+4. Controla la respiración en cada movimiento.
+5. Mantén la concentración en la técnica, no en la velocidad.
