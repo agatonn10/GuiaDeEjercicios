@@ -16,3 +16,10 @@ El yoga es una práctica que combina posturas físicas, técnicas de respiració
 3. Realiza posturas básicas como la montaña, el perro boca abajo o la postura del niño.
 4. Mantén cada postura entre 20 y 40 segundos, respirando de manera controlada.
 5. Finaliza con una breve meditación o relajación (savasana).
+
+## Consejos y Precauciones
+- Usa una colchoneta antideslizante.
+- No fuerces las posturas, avanza poco a poco.
+- Evita compararte, cada cuerpo tiene un ritmo distinto.
+- Consulta con un instructor si eres principiante.
+- Si tienes lesiones, adapta las posturas o evita aquellas que generen dolor.
