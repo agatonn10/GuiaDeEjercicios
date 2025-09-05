@@ -16,3 +16,10 @@ El entrenamiento funcional es un tipo de ejercicio que se centra en movimientos 
 3. Haz 3 series de 12 a 15 repeticiones de cada ejercicio.
 4. Descansa de 30 a 60 segundos entre series.
 5. Finaliza con estiramientos para relajar los músculos.
+
+## Consejos y Precauciones
+- Mantén siempre una buena técnica para evitar lesiones.
+- Ajusta la intensidad a tu nivel físico.
+- No uses peso excesivo si no dominas el movimiento.
+- Trabaja con supervisión si eres principiante.
+- Escucha a tu cuerpo y descansa cuando lo necesites.
