@@ -10,3 +10,10 @@ El ciclismo es un ejercicio cardiovascular que consiste en desplazarse en bicicl
 - Reduce el riesgo de enfermedades crónicas.
 - Es de bajo impacto para las articulaciones.
 
+## Instrucciones
+1. Ajusta el asiento y el manubrio de la bicicleta a tu altura.
+2. Mantén una postura erguida con la espalda recta.
+3. Empieza con un pedaleo suave de calentamiento durante 5 minutos.
+4. Alterna intervalos de mayor intensidad con pedaleo moderado.
+5. Finaliza con 5 minutos de pedaleo ligero para enfriar.
+
