@@ -15,3 +15,9 @@ Los ejercicios de fuerza son aquellos que implican el uso de resistencia para au
 4. Descansa entre 60 y 90 segundos entre series.
 5. Termina con estiramientos para relajar los músculos trabajados.
 
+## Consejos y Precauciones
+- Mantén una técnica correcta para evitar lesiones.
+- Comienza con poco peso y aumenta progresivamente.
+- No contengas la respiración durante el esfuerzo, exhala al levantar la carga.
+- Descansa al menos 48 horas antes de volver a trabajar el mismo grupo muscular.
+- Consulta a un profesional si tienes problemas de salud o lesiones previas.
