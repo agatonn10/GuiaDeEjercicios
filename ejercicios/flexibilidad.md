@@ -9,3 +9,11 @@ Los ejercicios de flexibilidad buscan mejorar la amplitud de movimiento de las a
 - Favorece la postura y la alineación corporal.
 - Contribuye a la recuperación después del ejercicio.
 - Reduce la tensión muscular y el estrés.
+
+
+## Instrucciones
+1. Realiza un calentamiento suave antes de estirar (5 minutos de caminata o movilidad).
+2. Mantén cada estiramiento entre 15 y 30 segundos sin rebotes.
+3. Respira profundamente durante el estiramiento.
+4. Trabaja todos los grupos musculares principales (piernas, brazos, espalda, cuello).
+5. Repite los estiramientos de 2 a 3 veces.
