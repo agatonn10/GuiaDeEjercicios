@@ -17,3 +17,10 @@ El pilates es un sistema de entrenamiento físico y mental que se centra en fort
 3. Ejecuta ejercicios básicos como "el cien", "el puente" y "la sierra".
 4. Controla la respiración en cada movimiento.
 5. Mantén la concentración en la técnica, no en la velocidad.
+
+## Consejos y Precauciones
+- Evita movimientos bruscos.
+- Concéntrate en la respiración y el control.
+- Si eres principiante, empieza con rutinas cortas.
+- Consulta con un especialista si tienes problemas de espalda.
+- No fuerces posturas que causen dolor.
