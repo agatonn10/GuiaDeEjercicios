@@ -17,3 +17,9 @@ El ciclismo es un ejercicio cardiovascular que consiste en desplazarse en bicicl
 4. Alterna intervalos de mayor intensidad con pedaleo moderado.
 5. Finaliza con 5 minutos de pedaleo ligero para enfriar.
 
+## Consejos y Precauciones
+- Usa siempre casco y equipo de seguridad si practicas al aire libre.
+- Mantén una hidratación adecuada durante el ejercicio.
+- Ajusta la resistencia de acuerdo a tu nivel físico.
+- Evita entrenar en superficies inseguras o con tráfico pesado.
+- Consulta con un médico si tienes problemas cardíacos antes de practicar ciclismo intenso.
